@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
-A Machine Learning project that predicts whether a person is diabetic or non-diabetic based on medical parameters using the **Support Vector Machine (SVM)** algorithm.
+A Machine Learning project that predicts whether a person is a diabetic or non-diabetic based on medical parameters using the **Support Vector Machine (SVM)** algorithm.
 
 ---
 
@@ -223,6 +223,7 @@ This project is developed for educational and learning purposes.
 **Rohit Sachidanand Joshi**
 
 Artificial Intelligence & Data Science Student
+
 
 ---
 ⭐ If you found this project useful, don't forget to star the repository!
