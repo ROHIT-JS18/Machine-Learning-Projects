@@ -224,9 +224,5 @@ This project is developed for educational and learning purposes.
 
 Artificial Intelligence & Data Science Student
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
 ⭐ If you found this project useful, don't forget to star the repository!
