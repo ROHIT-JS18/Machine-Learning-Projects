@@ -4,7 +4,7 @@ A complete implementation of **Principal Component Analysis (PCA)** from scratch
 
 ---
 
-## Project 
+## Project Overview
 
 Principal Component Analysis (PCA) is one of the most widely used dimensionality reduction techniques in Machine Learning and Data Science.
 
