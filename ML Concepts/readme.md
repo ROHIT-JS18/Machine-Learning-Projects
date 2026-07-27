@@ -18,7 +18,7 @@ In this project, PCA is implemented manually by calculating:
 - Principal Components
 - Data Projection
 
-After implementing PCA, Logistic Regression 
+After implementing PCA, Logistic Regression is trained on:
 
 - Original Dataset
 - PCA Reduced Dataset
