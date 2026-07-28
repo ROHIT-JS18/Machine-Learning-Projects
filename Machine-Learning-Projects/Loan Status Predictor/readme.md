@@ -101,7 +101,7 @@ The model performance is evaluated using:
 
 ---
 
-## ⚙️ Installation
+## ⚙️ 
 
 Clone the repository
 
