@@ -98,6 +98,18 @@ The model performance is evaluated using:
 
 ---
 
+## 📁 Project Structure
+
+```
+Loan-Status-Prediction/
+│
+├── Loan_Status_Prediction.ipynb
+├── train.csv
+├── test.csv
+├── README.md
+├── requirements.txt
+└── images/
+```
 
 ---
 
