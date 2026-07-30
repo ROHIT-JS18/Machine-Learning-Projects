@@ -28,7 +28,7 @@ Credit-Card-Fraud-Detection/
 ├── Credit Card Fraud Detection project.ipynb
 ├── credit_data.csv
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
