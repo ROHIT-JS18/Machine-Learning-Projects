@@ -200,8 +200,6 @@ Accuracy Evaluation
 
 **Rohit Joshi**
 
-Artificial Intelligence & Data Science Student
-
 ---
 
 ## ⭐ If you found this project helpful
