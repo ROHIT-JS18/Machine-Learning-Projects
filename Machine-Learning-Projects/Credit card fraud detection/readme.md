@@ -101,7 +101,7 @@ The notebook evaluates the model using:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+git clone https://github.com/Rohit-JS18/Credit-Card-Fraud-Detection.git
 ```
 
 Move into the project folder:
