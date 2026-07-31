@@ -1,4 +1,4 @@
-# Missing Value Imputation using Random Number 
+# Missing Value Imputation using Random Number Imputation
 
 ## Overview
 
