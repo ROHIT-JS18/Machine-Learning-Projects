@@ -16,7 +16,7 @@ Since the dataset is highly imbalanced, **under-sampling** is used to create a b
 * Train-Test Split
 * Logistic Regression model
 * Fraud prediction
-* Model accuracy evaluation
+* 
 
 ---
 
