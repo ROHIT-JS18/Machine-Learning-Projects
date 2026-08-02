@@ -106,7 +106,7 @@ The model performance is evaluated using:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Loan-Status-Prediction.git
+git clone https://github.com/rohit-js18/Loan-Status-Prediction.git
 ```
 
 Go to the project directory
