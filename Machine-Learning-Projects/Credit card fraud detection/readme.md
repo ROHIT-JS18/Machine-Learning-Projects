@@ -67,7 +67,7 @@ The dataset contains credit card transactions with the following information:
 
 1. Import required libraries
 2. Load the dataset
-3. 
+3. Explore the dataset
 4. Check missing values
 5. Analyze class distribution
 6. Apply under-sampling
