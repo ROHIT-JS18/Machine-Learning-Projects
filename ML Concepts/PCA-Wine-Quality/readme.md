@@ -13,7 +13,10 @@ In this project, PCA is implemented manually by calculating:
 - Mean
 - Mean Centering
 - Covariance Matrix
-
+- Eigenvalues
+- Eigenvectors
+- Principal Components
+- Data Projection
 
 After implementing PCA, Logistic Regression is trained on:
 
