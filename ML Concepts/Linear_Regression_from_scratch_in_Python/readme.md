@@ -6,7 +6,7 @@ A complete implementation of **Linear Regression from scratch using NumPy**, wit
 
 ## 📌 Project Overview
 
-This notebook covers  Linear Regression model from scratch, including:
+This notebook covers the complete workflow of building a Linear Regression model from scratch, including:
 
 - Understanding the Linear Regression equation
 - Understanding Gradient Descent
