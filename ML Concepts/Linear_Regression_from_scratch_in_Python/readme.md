@@ -4,7 +4,7 @@ A complete implementation of **Linear Regression from scratch using NumPy**, wit
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This notebook covers the complete workflow of building a Linear Regression model from scratch, including:
 
