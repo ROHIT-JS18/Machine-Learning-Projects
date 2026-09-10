@@ -2,9 +2,7 @@
 
 A complete implementation of **Principal Component Analysis (PCA)** from scratch using **NumPy** on the **Wine Quality Dataset**. This project demonstrates the mathematical foundation of PCA without using `sklearn.PCA()` and compares Machine Learning model performance before and after dimensionality reduction.
 
----
 
-## Project Overview
 
 Principal Component Analysis (PCA) is one of the most widely used dimensionality reduction techniques in Machine Learning and Data Science.
 
