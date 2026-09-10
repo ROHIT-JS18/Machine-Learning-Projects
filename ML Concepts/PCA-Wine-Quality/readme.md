@@ -8,55 +8,7 @@ A complete implementation of **Principal Component Analysis (PCA)** from scratch
 
 Principal Component Analysis (PCA) is one of the most widely used dimensionality reduction techniques in Machine Learning and Data Science.
 
-In this project, PCA is implemented manually by calculating:
-
-- Mean
-- Mean Centering
-- Covariance Matrix
-- Eigenvalues
-- Eigenvectors
-- Principal Components
-- Data Projection
-
-After implementing PCA, Logistic Regression is trained on:
-
-- Original Dataset
-- PCA Reduced Dataset
-
-Finally, the results are compared based on:
-
-- Accuracy
-- Training Time
-- Number of Features
-
----
-
-## Dataset
-
-**Dataset:** Wine Quality Dataset
-
-Source:
-https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
-
-Dataset Information
-
-- Samples : 1599
-- Features : 11
-- Target : Quality
-
----
-
-## Technologies Used
-
-- Python
-- NumPy
-- Pandas
-- Plotly
-- Scikit-learn
-- Jupyter Notebook
-
----
-
+In this
 ## Project Workflow
 
 ```text
